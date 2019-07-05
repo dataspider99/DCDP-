@@ -50,3 +50,9 @@ DCDP course is for devops professional to groom their career. Following is the r
 2. Spark
 3. Elastic Search
 ```
+
+## Database
+```
+1. NoSQL- MongoDB, CosmosDB
+2. RDBMS- MySQL
+```
