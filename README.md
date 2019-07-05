@@ -23,6 +23,8 @@ DCDP course is for devops professional to groom their career. Following is the r
 ```
 1. AWS
 2. Azure
+3. Docker
+4. Kubernetes
 ```
 
 ## Automation
